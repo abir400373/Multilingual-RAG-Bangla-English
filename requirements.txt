@@ -1,0 +1,7 @@
+pillow
+PyMuPDF
+pytesseract
+sentence-transformers
+numpy
+faiss-cpu
+transformers
